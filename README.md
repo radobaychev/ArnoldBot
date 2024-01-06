@@ -24,7 +24,7 @@
 
 “!help”
 
-“Failure is not an option. Everyone has to scceed.”
+“Failure is not an option. Everyone has to succeed.”
 
 “GET TO THE CHOPPA”
 
